@@ -6,4 +6,5 @@
 SIR = Wanted Signal / Unwanted Signal <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= Signal / Interfernce <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;= S / I <br>
-<img width="500" alt="image" src="https://github.com/yoon-mina/TDD/assets/143046108/fcfd7be3-b69b-405a-aae6-f87097d237db">
+<!-- <img width="500" alt="image" src="https://github.com/yoon-mina/TDD/assets/143046108/fcfd7be3-b69b-405a-aae6-f87097d237db">
+ -->
